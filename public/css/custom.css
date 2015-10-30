@@ -1,0 +1,26 @@
+.menu{
+    margin-top:100%;
+}
+
+.menu a{
+    color:red;
+}
+
+.post{padding:10px}
+.post:nth-child(even) {background: #E3E3E3}
+.post:nth-child(odd) {background: #FFF}
+
+.title a{
+    text-decoration: none;
+    color: #222;
+}
+
+.comment{
+    padding : 20px 10px;
+}
+
+.comment:nth-child(odd) {background: #E3E3E3}
+.comment:nth-child(even) {background: #FFF}
+
+.list ul {list-style: none;}
+.list{white-space: nowrap}
